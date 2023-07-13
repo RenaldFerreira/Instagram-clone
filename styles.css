@@ -58,4 +58,6 @@ button{
     position: absolute;
     left: 153px;
     top: 26px;
+    transition: ease-in-out 3s;
 }
+
